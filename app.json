@@ -1,0 +1,19 @@
+{
+  "appKey": "DTtn78kFfOBz597VPecgkWM9G75lEVx9",
+  "appSecret": "grCXW5fOyxaSm1zngdO8TBjTTQbPlpeP",
+  "projectId": "cdc19c91e4a37be624c2a4b26223fcfe",
+  "id": 141,
+  "name": "hr1",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/Alex9a/hr1.git",
+    "isPrivate": 0,
+    "username": "alex9a",
+    "password": "Aa@445566"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
